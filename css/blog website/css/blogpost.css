@@ -1,0 +1,32 @@
+.custom-container {
+    margin: 5vh 15vw !important;
+    text-align: center;
+}
+
+.blog-page-cover {
+    max-width: 70vw;
+}
+
+.blog-content {
+    text-align: justify;
+}
+
+/*Button*/
+.custom-button {
+  background: rgb(116, 115, 115);
+  border: 2px solid transparent;
+  color: #100f0f; /* Initial text color */
+  padding: 10px 20px;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  transition: background 300ms ease-in-out, color 300ms ease-in-out;
+  margin-top: 10px;
+}
+
+
+
